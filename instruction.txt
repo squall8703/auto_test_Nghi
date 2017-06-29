@@ -1,0 +1,4 @@
+-QA file: contains answers of 2 questions.
+-Source code: in the TestHelloPay folder
+	+Open the project and run the file VerifyCreateAccountSussessfully.java in Eclipse to test.
+	+Please download the ChromeDriver and put in folder D:/Selenium/chromedriver_win32/chromedriver.ex to run the script	

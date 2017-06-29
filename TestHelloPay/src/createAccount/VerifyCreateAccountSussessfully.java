@@ -12,7 +12,7 @@ public class VerifyCreateAccountSussessfully {
   @Test
   public void Test1() 
   {
-	  	String email = "fedcba131@yahoo.com";
+	  	String email = "fedcba150@yahoo.com";
 	  	String first_name = "Nghi";
 	    System.setProperty("webdriver.chrome.driver", "D:/Selenium/chromedriver_win32/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
